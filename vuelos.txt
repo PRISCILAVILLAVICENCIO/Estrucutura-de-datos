@@ -1,0 +1,18 @@
+# Base de Datos Ficticia de Vuelos Comerciales
+# Formato: Origen,Destino,Precio
+Quito,Guayaquil,55.00
+Quito,Cuenca,65.00
+Quito,Manta,45.00
+Quito,Coca,50.00
+Quito,Galapagos,140.00
+Guayaquil,Quito,58.00
+Guayaquil,Cuenca,38.00
+Guayaquil,Galapagos,110.00
+Guayaquil,Manta,35.00
+Cuenca,Quito,62.00
+Cuenca,Loja,30.00
+Cuenca,Guayaquil,40.00
+Manta,Quito,48.00
+Manta,Galapagos,125.00
+Loja,Guayaquil,42.00
+Coca,Quito,52.00
