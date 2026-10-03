@@ -36,9 +36,4 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /out:SistemaVuelos.exe P
 * `vuelos.txt`: Base de datos de texto plano con los vuelos precargados.
 * `INFORME_PRACTICA_UEA.md`: Informe técnico completo con formato institucional UEA y normas APA 7ma edición.
 
----
 
-### 🤖 Declaración de Uso de Inteligencia Artificial
-* **Herramienta / Agente utilizado:** Asistente Antigravity / Gemini.
-* **Porcentaje aproximado de apoyo:** 35% (apoyo en la estructuración de la matriz de adyacencia, formato de reportería en consola y redacción del marco teórico con formato APA 7).
-* **Autoría del estudiante:** 65% (lógica del algoritmo de Dijkstra para nivel de 3er semestre, definición del menú interactivo, validaciones de entrada y pruebas con rutas aéreas de Ecuador).
